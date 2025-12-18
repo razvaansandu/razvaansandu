@@ -1,7 +1,7 @@
 # Hi, I'm Razvan 👋
 
 IT Apprentice @ Advice Srl and final-year Computer Science student @ I.I.S. Marconi Mangano.  
-I build full-stack projects and I’m growing into Systems/DevOps and security (Linux hardening + automation).
+Full‑stack developer (Next.js/Node) with a strong interest in DevOps and Linux security.
 
 ## Focus areas
 - Full‑stack web: Next.js (React) + Node.js
