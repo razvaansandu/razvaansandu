@@ -5,13 +5,9 @@ Full‑stack developer (Next.js/Node) with a strong interest in DevOps and Linux
 
 ## Focus areas
 - Full‑stack web: Next.js (React) + Node.js
-- Systems/DevOps: Linux, Ansible automation, networking fundamentals
-- Security basics: SSH hardening, firewalling, auditing
+- Systems/DevOps
 
 ## What I’ve worked on (apprenticeship / lab)
-- **Ansible automation**: automated Nginx deployment on CentOS Stream 9 (inventory, SSH access, firewalld rules, SELinux handling, package updates).  
-- **Linux hardening lab**: bastion host + application server design, SSH key‑only auth, sysctl kernel hardening, minimal services, auditd rules.  
-- **Database ops basics**: MariaDB install + secure setup, database/table creation, hourly backups with cron + log rotation with logrotate.
 
 ## Projects
 - 🎵 **Spotify Clone** — Full‑stack app (Next.js, React, Node.js): https://github.com/razvaansandu/musical-giggle  
@@ -21,8 +17,8 @@ Full‑stack developer (Next.js/Node) with a strong interest in DevOps and Linux
 ## Tech stack
 - Languages: C++, Java, JavaScript, HTML, CSS
 - Web: Next.js, React, Node.js
-- Systems: Linux (CentOS/Kali/Parrot/Ubuntu LTS), SSH, firewalld, SELinux, systemd
-- Databases: MariaDB/MySQL, SQL (basics)
+- Systems: Linux (CentOS/Kali/Parrot/Ubuntu LTS)
+- Databases: MariaDB/MySQL, SQL
 - Tools: Git, GitHub, VS Code
 
 ## Contact
