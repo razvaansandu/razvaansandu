@@ -1,26 +1,58 @@
 # Hi, I'm Razvan 👋
 
-IT Apprentice @ Advice Srl and final-year Computer Science student @ I.I.S. Marconi Mangano.  
-Full‑stack developer (Next.js/Node) with a strong interest in DevOps and Linux security.
+**Full‑stack Developer & DevOps Enthusiast**
+IT Apprentice @ Advice Srl | CS Student @ I.I.S. Marconi Mangano
 
-## Focus areas
-- Full‑stack web: Next.js (React) + Node.js
-- Systems/DevOps
+Passionate about building scalable web applications and securing Linux infrastructures.
+My focus is on **Clean Code**, **Software Architecture** (MVC, SRP), and automating workflows.
 
-## What I’ve worked on (apprenticeship / lab)
+## 🚀 Focus Areas
 
-## Projects
-- 🎵 **Spotify Clone** — Full‑stack app (Next.js, React, Node.js): https://github.com/razvaansandu/musical-giggle  
-- 🏦 **Bank Account Manager (Java)** — Users, transfers, IBAN calculation/validation *(WIP)*  
-- 💻 **C++ apps** — Small tools/apps to practice OOP, data structures, and clean code *(WIP)*
+* **Full‑stack Web:** Next.js (React), Node.js, PHP (MVC)
+* **Architecture:** Design Patterns, Clean Code, REST APIs
+* **DevOps & Security:** Linux hardening, Docker, CI/CD concepts
 
-## Tech stack
-- Languages: C++, Java, JavaScript, HTML, CSS
-- Web: Next.js, React, Node.js
-- Systems: Linux (CentOS/Kali/Parrot/Ubuntu LTS)
-- Databases: MariaDB/MySQL, SQL
-- Tools: Git, GitHub, VS Code
+## 🛠 Projects
 
-## Contact
-- Email: razvaansandu@gmail.com
-- LinkedIn: *(WIP)*
+### 🍽️ **ClickNeat** (Latest Project)
+
+*Multi-role Food Delivery & Restaurant Management Platform.*
+
+* **Tech:** PHP (Native), MySQL, Docker, MVC Pattern.
+* **Key Features:**
+* **Architecture:** Custom MVC structure with **Single Responsibility Principle** applied to Models (LoginModel, RegisterModel).
+* **Role Management:** Distinct dashboards for Customers and Restaurant Owners.
+* **Core Logic:** Session-based cart, dynamic menu management, and secure authentication flows.
+
+
+
+### 🎵 **Spotify Clone**
+
+*A full-stack music streaming application focusing on performance and modern UI.*
+
+* **Stack:** Next.js, React, Node.js, Tailwind CSS.
+* **Key Features:** Custom audio player, responsive design, API integration.
+* **Repo:** [github.com/razvaansandu/musical-giggle]()
+
+### 🏦 **Bank Account Manager** (Java)
+
+*Backend logic simulation for banking operations.*
+
+* **Focus:** OOP patterns, secure data handling, IBAN validation algorithms.
+
+## 💻 Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | JavaScript/TypeScript, PHP, Java, C++, HTML/CSS |
+| **Web & Frameworks** | Next.js, React, Node.js, Tailwind |
+| **Architecture** | MVC, REST, OOP, Singleton/Factory Patterns |
+| **Systems & DevOps** | Linux (CentOS/Kali/Ubuntu), **Docker**, Bash Scripting |
+| **Database** | MariaDB/MySQL, SQL |
+| **Tools** | Git, GitHub, VS Code |
+
+## 📫 Contact
+
+* **Email:** razvaansandu@gmail.com
+* **LinkedIn:** *[Insert Link]*
+* **GitHub:** [github.com/razvaansandu]()
